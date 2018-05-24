@@ -287,8 +287,12 @@ textarea {
     width: 100%; 
     padding: 5px;
 }
-input["message"] {
-    width: 100%; 
+
+textarea {	
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;	
+width: 100%;
 }
 
 input["email"] {
@@ -341,8 +345,12 @@ input["email"] {
     width: 100%; 
     padding: 5px;
 }
-input["message"] {
-    width: 100%; 
+
+textarea {	
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;	
+width: 100%;
 }
 
 input["email"] {
@@ -418,8 +426,12 @@ input["email"] {
     width: 100%; 
     padding: 5px;
 }
-input["message"] {
-    width: 100%; 
+
+textarea {	
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;	
+width: 100%;
 }
 
 input["email"] {
