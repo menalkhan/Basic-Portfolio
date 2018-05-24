@@ -83,20 +83,6 @@ nav {
 	height: 100%;
 }
 
-html, body {
-	height: 100%;
-}
-
-.wrapper {
-	min-height: 100%;
-	height: auto !important;
-	height: 100%;
-	margin: 0 auto -109px;
-}
-
-.push {
-	height: 109px;
-}
 
 
 /* selectors for main content (section + aside) */
